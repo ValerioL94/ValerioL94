@@ -1,8 +1,8 @@
-👋 Hi, I’m @ValerioL94
+## Hi, I’m @ValerioL94
 
-I’m currently following the Odin Project's full stack javascript path: https://www.theodinproject.com/paths/full-stack-javascript
+### I’m currently following The Odin Project's full stack javascript course: https://www.theodinproject.com/paths/full-stack-javascript
 
-Languages and tools I'm using include:
+### Languages and tools I'm using and improving on include:
 
 
  - ## HTML<img src="https://skillicons.dev/icons?i=html" height = "20px" />   CSS<img src="https://skillicons.dev/icons?i=css" height = "20px" />   JAVASCRIPT <img src="https://skillicons.dev/icons?i=javascript" height = "20px" />
