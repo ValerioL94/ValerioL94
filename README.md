@@ -7,7 +7,8 @@
 Languages and tools I'm using include:
 
 <p>html, css, javascript</p>
-<p>git, github, visual studio code, npm, webpack</p>
+<p>git, github</p>
+<p>visual studio code, npm, webpack</p>
 
 
 
