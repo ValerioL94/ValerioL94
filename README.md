@@ -2,12 +2,19 @@
 
 ### I’m currently following The Odin Project's full stack javascript course: https://www.theodinproject.com/paths/full-stack-javascript
 
-### Languages and tools I'm using and improving on include:
+### Languages and tools I'm using include:
 
 
- - ## HTML<img src="https://skillicons.dev/icons?i=html" height = "20px" />   CSS<img src="https://skillicons.dev/icons?i=css" height = "20px" />   JAVASCRIPT <img src="https://skillicons.dev/icons?i=javascript" height = "20px" />
- - ## GIT<img src="https://skillicons.dev/icons?i=git" height = "20px" />   GITHUB<img src="https://skillicons.dev/icons?i=github" height = "20px" />
- - ## VSCODE<img src="https://skillicons.dev/icons?i=vscode" height = "20px" />  NPM<img src="https://img.icons8.com/color/48/000000/npm.png" height = "20px" />  WEBPACK<img src="https://skillicons.dev/icons?i=webpack" height = "20px" />
+
+ - ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&labelColor=white) ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=%231572B6&labelColor=white) ![Static Badge](https://img.shields.io/badge/JavaScript-grey?style=flat&logo=javascript)
+
+ - ![Static Badge](https://img.shields.io/badge/Git-white?style=flat&logo=git) ![Static Badge](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=%23181717)
+ - ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=flat&logo=visualstudiocode&logoColor=%23007ACC&labelColor=white) ![Static Badge](https://img.shields.io/badge/npm-white?style=flat&logo=npm&labelColor=white&color=%23CB3837) ![Static Badge](https://img.shields.io/badge/Webpack-white?style=flat&logo=webpack&logoColor=%238DD6F9&labelColor=white&color=%238DD6F9)
+
+- [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) ![Static Badge](https://img.shields.io/badge/ESLint-white?style=flat&logo=eslint&logoColor=%234B32C3&labelColor=white&color=%234B32C3)
+
+
+
 
 <!---
 ValerioL94/ValerioL94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
