@@ -27,8 +27,10 @@
  <li>
   <img alt="Static Badge" src="https://img.shields.io/badge/Vite-white?logo=vite&labelColor=white&color=%23646CFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/React-grey?style=flat&logo=react&logoColor=%2361DAFB&labelColor=grey&color=%2361DAFB">
-
+  <img alt="Static Badge" src="https://img.shields.io/badge/Vitest%20-%20white?logo=vitest&labelColor=white&color=%236E9F18">
  </li>
+ <li> <img alt="Static Badge" src="https://img.shields.io/badge/Node.js%20-%20white?logo=nodedotjs&labelColor=white&color=%23339933">
+</li>
 </ul>
 
 
