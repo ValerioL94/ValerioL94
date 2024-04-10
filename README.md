@@ -2,7 +2,7 @@
 
 ### I’m currently following The Odin Project's full stack javascript course: https://www.theodinproject.com/paths/full-stack-javascript
 
-### Languages and tools I'm currently using include:
+### Languages and tools that I'm learning and currently using include:
 
 <ul>
  <li>
@@ -32,6 +32,10 @@
  <li> <img alt="Static Badge" src="https://img.shields.io/badge/Node.js%20-%20white?logo=nodedotjs&labelColor=white&color=%23339933">
 </li>
 </ul>
+
+Badges: https://shields.io/
+
+Icons: https://simpleicons.org/
 
 
 
