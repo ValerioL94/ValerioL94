@@ -1,4 +1,4 @@
-## Hi, I’m Valerio,
+### Hi, I’m Valerio
 
 ### I’m currently following The Odin Project's full stack javascript course: https://www.theodinproject.com/paths/full-stack-javascript
 
@@ -19,7 +19,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Webpack-white?style=flat&logo=webpack&logoColor=%238DD6F9&labelColor=white&color=%238DD6F9">
  </li>
  <li>
-  <img alt="Static Badge" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Prettier%20-%20white?logo=prettier&logoColor=%23F7B93E&labelColor=%231a2b34&color=%231a2b34">
   <img alt="Static Badge" src="https://img.shields.io/badge/ESLint-white?style=flat&logo=eslint&logoColor=%234B32C3&labelColor=white&color=%234B32C3">
   <img alt="Static Badge" src="https://img.shields.io/badge/Babel-grey?logo=babel">
   <img alt="Static Badge" src="https://img.shields.io/badge/Jest%20-%20%20%23C21325?logo=jest&logoColor=white&labelColor=%20%23C21325">
@@ -33,6 +33,10 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js%20-%20white?logo=nodedotjs&labelColor=white&color=%23339933">
   <img alt="Static Badge" src="https://img.shields.io/badge/Express%20-%20white?logo=express&logoColor=%23000000&labelColor=white&color=grey">
   <img alt="Static Badge" src="https://img.shields.io/badge/EJS%20-%20grey?logo=ejs&logoColor=%23B4CA65&labelColor=grey&color=%23B4CA65">
+ </li>
+ <li>
+  <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB%20-%20white?logo=mongodb&logoColor=%2347A248&color=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Mongoose%20-%20%23880000?logo=Mongoose&logoColor=%23880000&labelColor=white&color=%23880000">
  </li>
 </ul>
 
