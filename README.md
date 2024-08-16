@@ -39,6 +39,7 @@
  <li>
   <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB%20-%20white?logo=mongodb&logoColor=%2347A248&color=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Mongoose%20-%20%23880000?logo=Mongoose&logoColor=%23880000&labelColor=white&color=%23880000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL%20-%20%234169E1?logo=postgresql&logoColor=white&labelColor=%234169E1">
  </li>
 </ul>
 
