@@ -9,8 +9,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&labelColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=%231572B6&labelColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-grey?style=flat&logo=javascript">
-  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript%20-%20white?logo=typescript&labelColor=white&color=%233178C6">
-
  </li>
  <li> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-white?style=flat&logo=git">
@@ -43,6 +41,10 @@
  <li>
    <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL%20-%20%234169E1?logo=postgresql&logoColor=white&labelColor=%234169E1">
   <img alt="Static Badge" src="https://img.shields.io/badge/Prisma%20-%20%232D3748?logo=prisma&labelColor=%232D3748">
+ </li>
+ <li>
+   <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript%20-%20white?logo=typescript&labelColor=white&color=%233178C6">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Zod%20-%20rgb(20%2038%2065)?logo=zod&logoColor=%233E67B1">
  </li>
 </ul>
 
