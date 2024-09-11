@@ -14,7 +14,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-white?style=flat&logo=git">
   <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=%23181717"> </li>
  <li>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=flat&logo=visualstudiocode&logoColor=%23007ACC&labelColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=flat">
   <img alt="Static Badge" src="https://img.shields.io/badge/npm%20-%20white?logo=npm&labelColor=%23CB3837&color=%23CB3837">
   <img alt="Static Badge" src="https://img.shields.io/badge/Webpack-white?style=flat&logo=webpack&logoColor=%238DD6F9&labelColor=white&color=%238DD6F9">
  </li>
